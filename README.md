@@ -44,19 +44,6 @@
 
 ---
 
-### 🤡 Meme Zone
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR1dzBqamhyZ3pwaHpxamhyZ3pwaHpxamhyZ3pwaHpxamhyZ3AmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/a0n4MOhzZab5cz3hWi/giphy.gif" width="350"/>
-  <br>
-  <b>My commit logic:</b><br>
-  <code>git add .</code><br>
-  <code>git commit -m "Semoga Berhasil"</code><br>
-  <code>git push origin main</code><br>
-  <i>(Pray for the production)</i>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2e1065&height=60&section=footer&text=Thanks%20for%20visiting!&fontColor=a855f7"/>
 </p>
