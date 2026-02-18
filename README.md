@@ -31,11 +31,15 @@
 
 ---
 
-### ⚡ Current Productivity Meter
+### ⚡ My Activity & Vibe
 <p align="center">
-  <img src="https://geps.dev/api/75?text=Dying%20inside&width=400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HisyamArrafi&theme=radical&hide_border=true&background=0D1117&ring=F87171&fire=FBBF24&currStreakLabel=FBBF24" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR1dzBqamhyZ3pwaHpxamhyZ3pwaHpxamhyZ3pwaHpxamhyZ3AmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/a0n4MOhzZab5cz3hWi/giphy.gif" width="400" />
   <br>
-  <i>"Loading more bugs... 99% complete"</i>
+  <i>"Me trying to maintain a commit streak vs Me actually coding."</i>
 </p>
 
 ---
