@@ -20,13 +20,22 @@
 
 ---
 
-### 📊 Spectacular Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HisyamArrafi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F87171&icon_color=FBBF24" alt="GitHub Stats" />
+### �️ Tech Stack I (Pretend to) Master
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
+
+### ⚡ Current Productivity Meter
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HisyamArrafi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=60A5FA" alt="Top Langs" />
+  <img src="https://geps.dev/api/75?text=Dying%20inside&width=400" />
+  <br>
+  <i>"Loading more bugs... 99% complete"</i>
 </p>
 
 ---
