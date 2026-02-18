@@ -15,8 +15,7 @@
 ---
 
 ### 🎭 About Me (The Reality)
-- 🔭 Working on: **[FuelTrack](https://github.com/HisyamArrafi/fueltrack)** (Karena bensin mahal).
-- 🐛 Skill Utama: Membuat bug yang sulit dijelaskan namun mudah ditemukan.
+-  Skill Utama: Membuat bug yang sulit dijelaskan namun mudah ditemukan.
 - ⚡ Fun Fact: Lebih sering ganti tema VS Code daripada nambah fitur.
 
 ---
@@ -34,7 +33,7 @@
 
 ### 🤡 Meme Zone
 <p align="center">
-  <img src="https://i.kym-cdn.com/entries/icons/original/000/017/338/test.jpg" width="350" title="Me when the code finally works but I don't know why"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR1dzBqamhyZ3pwaHpxamhyZ3pwaHpxamhyZ3pwaHpxamhyZ3AmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/a0n4MOhzZab5cz3hWi/giphy.gif" width="350"/>
   <br>
   <b>My commit logic:</b><br>
   <code>git add .</code><br>
